@@ -2,9 +2,11 @@
 
 Projects guided by NYUAD Fall '23 Machine Learning class with Professor [Keith Ross](https://engineering.nyu.edu/faculty/keith-ross).
 
-Primary tools: PyTorch and Python
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
 
-> This course was my first real deep dive into the math and mechanics behind machine learning — not just using tools, but understanding what's actually happening under the hood. Many of the assignments were intentionally done with only math libraries (NumPy, pure Python): deriving weight updates by hand, implementing eigendecomposition without sklearn, building gradient descent from scratch before ever touching an optimizer. That foundation made the later PyTorch assignments click in a way they wouldn't have otherwise. This repo marks my first stepping stone into training my own models — and the point where ML stopped feeling like a black box.
+This course was my first real deep dive into the math and mechanics behind machine learning — not just using tools, but understanding what's actually happening under the hood. Many of the assignments were intentionally done with only math libraries (NumPy, pure Python): deriving weight updates by hand, implementing eigendecomposition without sklearn, building gradient descent from scratch before ever touching an optimizer. That foundation made the later PyTorch assignments click in a way they wouldn't have otherwise. This repo marks my first stepping stone into training my own models — and the point where ML stopped feeling like a black box.
 
 ---
 
