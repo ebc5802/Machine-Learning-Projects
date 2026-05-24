@@ -102,6 +102,7 @@ Built a **character-level RNN language model** in PyTorch to generate new dinosa
 
 Applied CNNs to real-time **hand gesture recognition** — classifying Rock, Paper, and Scissors from images using a convolutional neural network.
 
+🔗 Repo: [rps-computer-vision](https://github.com/ebc5802/rps-computer-vision)
 📄 Full writeup, results, and demo: [Notion](https://edison-chen.notion.site/Rock-Paper-Scissors-w-Computer-Vision-CNNs-434b4dd7571e477fb7c53060f788508b?pvs=74)
 
 ---
